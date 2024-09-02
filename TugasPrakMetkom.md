@@ -8,9 +8,13 @@
 ### - Step 1
 ![step1](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/1%20step.PNG)
 ### - Step 2
+![Step2](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/2%20step.PNG)
 ### - Step 3
+![Step3](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/3%20step.PNG)
 ### - Step 4
+![Step4](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/4%20step.PNG)
 #### Hasil
+![Hasil](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/5%20step.PNG)
 # Task 3
 ##
 ###
