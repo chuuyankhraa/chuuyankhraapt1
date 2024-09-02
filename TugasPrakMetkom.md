@@ -13,8 +13,9 @@
 ![Step3](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/3%20step.PNG)
 ### - Step 4
 ![Step4](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/4%20step.PNG)
-#### Hasil
-![Hasil](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/5%20step.PNG)
+#### Results
+##### Here is the result of my README profile
+![Results](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/5%20step.PNG)
 # Task 3
 ##
 ###
