@@ -12,6 +12,8 @@
 ![git config](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/1.PNG)
 ### - git add, git commit, git push:  The workflow to save changes and share them with your team.
 ![git add, git commit, git push](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/1.2.PNG)
+### - Results
+![Results](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/re.PNG)
 # Task 2
 ## Steps to create a profile README
 ### - Step 1
