@@ -34,19 +34,19 @@
 # Task 3
 ## Evidence of experimenting with git clone features. git add. git commit, git pull / git fetch / git merge, git push:
 ### - git clone: clones an existing repository from a remote server to your local machine.
-![git clone]()
+![git clone](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/cl.PNG)
 ### - git add: 	stages all changes (new, modified, or deleted files) in the current directory for the next commit.
-![git add]()
+![git add](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/ad.PNG)
 ### - git commit: commits the staged changes to the repository with a descriptive message.
-![git commit]()
+![git commit](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/com.PNG)
 ### - git pull: fetches and merges changes from the remote repository into the current branch.
-![git pull]()
+![git pull](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/pul.PNG)
 ### - git fetch: downloads objects and refs from another repository, but doesn’t merge them into your current branch.
-![git fetch]()
+![git fetch](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/fet.PNG)
 ### - git merge: merges the specified branch into the current branch.
-![git merge]()
+![git merge](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/mer.PNG)
 ### - git push: uploads the local commits to the remote repository (e.g., GitHub, GitLab).
-![git push]()
+![git push](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/push.PNG)
 ## Results
 ### Here is the result:
-![Results]()
+![Results](https://github.com/chuuyankhraa/chuuyankhraapt1/blob/main/bu.PNG)
